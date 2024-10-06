@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/zapieksy/static/js/main.9ae8ae07.js",
+    "main.js": "/zapieksy/static/js/main.e62827f0.js",
     "index.html": "/zapieksy/index.html",
-    "main.9ae8ae07.js.map": "/zapieksy/static/js/main.9ae8ae07.js.map"
+    "main.e62827f0.js.map": "/zapieksy/static/js/main.e62827f0.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ae8ae07.js"
+    "static/js/main.e62827f0.js"
   ]
 }
